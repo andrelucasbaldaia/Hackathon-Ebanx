@@ -2,6 +2,7 @@
 ## Project developed at Hackaton 2024 at Ebanx
 #### In this project, we developed a system using the tools on console.cloud.google.com to extract data from PDFs, specifically invoices, which do not follow a standard format, transform them into structured data and upload it to Big Query using AI. 
 <img src="logo_hackaton.jpeg">
+<img src="apresentacao.jpg">
 <p>Creating a bucket to upload PDFs to the Cloud Storege</p>
 <img src="invoices_upload.png">
 <p>Once uploaded, the Cloud Function is triggered and executed.</p>
